@@ -1,3 +1,5 @@
+package com.helger.security.keystore;
+
 import com.helger.security.keystore.LoadedKeyStore;
 import com.helger.security.keystore.KeyStoreHelper;
 import com.helger.security.keystore.EKeyStoreType;
