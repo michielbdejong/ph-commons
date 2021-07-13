@@ -21,7 +21,7 @@ public class App
                 "pondersource-c2",
                 null);
 
-        } catch (GeneralSecurityException e) {
+        } catch (Exception e) {
             // ...
         }
         System.out.println( "Hello World!" );
