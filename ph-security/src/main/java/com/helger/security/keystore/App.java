@@ -20,11 +20,10 @@ public class App
                 "/Users/michiel/Downloads/pondersource-c2.pfx",
                 "pondersource-c2",
                 null);
-
+            System.out.println( "yes!" );
         } catch (Exception e) {
-            // ...
+            System.out.println( "no!" );
         }
-        System.out.println( "Hello World!" );
     }
 }
 
